@@ -1,20 +1,30 @@
-1 HOME
+EX1
 <!DOCTYPE html>
 <html>
 <head>
 <title> pate title </title>
 </head>
-<body>
+<body   style="background-color:powderblue;"> -- thuốc tính nền màu xanh
 
-<h1> this is a heading </h1>
-<p> this is paragraph </p>
+<h1> this is a heading </h1> -- tiêu đề 
+
+<p> this is paragraph </p>--  đoạn văn cần viết
+
+<a href="https://www.w3schools.com"> This is a link</a> -- link cần dán
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">-- hình ảnh và kich thước
+
+<p style="color:red;">I am red</p> --chữ màu đỏ
+
+<p style="color:blue;">I am blue</p> --chữ màu xanh
+
+<p style="font-size:50px;">I am big</p> -- chữ cỡ lớn 
+
 
 </body>
 </html>
 
-
-
-2 INTRODUCTION
+EX2
  <!DOCTYPE html>
  <html>
  <head>
@@ -22,8 +32,54 @@
  </head>
  <body>
  
- <h1> My first heading </h1>
- <p> My first paragaph </p>
+ <h1 style="background-color:powderblue;">This is a heading</h1> -- màu nền phần tử tiêu đề
  
+ <h2 style="color:blue;">This is a heading</h2>-- màu chữ phần tử tiêu đề( cái này phần trên có rồi)
+ 
+ <p style="color:red;">This is a paragraph.</p>-- màu chữ phần tử nội dung (cái này phần trên cũng có)
+ 
+<p style="background-color:tomato;">This is a paragraph.</p>-- màu nền phần tử nội dung
+
  </body>
  </html>
+ 
+ EX3
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-family:verdana;">This is a heading</h1>-- phông kiểu chữ
+
+<p style="font-family:courier;">This is a paragraph.</p>-- phông kiểu chữ
+
+<h2 style="text-align:center;">Centered Heading</h2>-- căn chỉnh văn bản đều hai bên
+
+<p style="text-align:center;">Centered paragraph.</p>-- căn chỉnh văn bản đều hai bên
+
+</body>
+</html>
+EX3
+<!DOCTYPE html>
+<html>
+<body>
+                                                                    
+<p><b>This text is bold</b></p>                                      
+<p><i>This text is italic</i></p> -- kiểu chữ nghiêng                                   
+<p>This is<sub> subscript </sub> and <sup>superscript</sup></p> --    <sub> chữ cần lêch xuống dưới </sub> phần chữ lêch dưới
+                                                                      <sup> chữ cần lêch lên trên </sup> phần chữ lệch trên
+</body>
+</html>
+
+PHẦN TÓM TẮT MỘT SỐ LỆCH
+<b> - Chữ in đậm
+<strong> - Văn bản quan trọng
+<i> - Văn bản in nghiêng
+<em> - Đoạn văn bản được nhấn mạnh
+<mark> - Văn bản được đánh dấu
+<small> - Văn bản nhỏ hơn
+<del> - Văn bản đã xóa
+<ins> - Đã chèn văn bản
+<sub> - Văn bản chỉ số
+<sup> - Văn bản siêu cấp
+CÁI NÀY LÀ LỆCH KHỞI ĐẦU CÒN LỆNH KẾT THÚC THÌ MÌNH THÊM / VÀO SAU DẤU <
+TỐI VIẾT TIẾP ĐI NẤU CƠM HEHE
