@@ -1,3 +1,4 @@
+CÁCH DÒNG CHO AE DỄ NHÌN HEHE 
 EX1
 <!DOCTYPE html>
 <html>
@@ -62,9 +63,12 @@ EX3
 <!DOCTYPE html>
 <html>
 <body>
-                                                                    
-<p><b>This text is bold</b></p>                                      
-<p><i>This text is italic</i></p> -- kiểu chữ nghiêng                                   
+<h1 style="border:2px solid Tomato;">Hello World</h1>-- cái này nó kiểu khung viền màu cà chua ấy
+
+<p><b>This text is bold</b></p>     
+
+<p><i>This text is italic</i></p> -- kiểu chữ nghiêng 
+
 <p>This is<sub> subscript </sub> and <sup>superscript</sup></p> --    <sub> chữ cần lêch xuống dưới </sub> phần chữ lêch dưới
                                                                       <sup> chữ cần lêch lên trên </sup> phần chữ lệch trên
 </body>
