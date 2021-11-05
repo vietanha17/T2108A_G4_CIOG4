@@ -59,10 +59,12 @@ EX2
 
 </body>
 </html>
-EX3
+
+EX4
 <!DOCTYPE html>
 <html>
 <body>
+
 <h1 style="border:2px solid Tomato;">Hello World</h1>-- cái này nó kiểu khung viền màu cà chua ấy
 
 <p><b>This text is bold</b></p>     
@@ -86,5 +88,16 @@ PHẦN TÓM TẮT MỘT SỐ LỆCH
 <sub> - Văn bản chỉ số
 <sup> - Văn bản siêu cấp
 CÁI NÀY LÀ LỆCH KHỞI ĐẦU CÒN LỆNH KẾT THÚC THÌ MÌNH THÊM / VÀO SAU DẤU <
+
+MỘT SỐ MÀU SẮC THƯỜNG DÙNG NÀY
+Tomato
+Orange
+DodgerBlue
+MediumSeaGreen
+Gray
+SlateBlue
+Violet
+LightGray
+
 TỐI VIẾT TIẾP ĐI NẤU CƠM HEHE
 CÒN 3 CÁI NỮA THÔI
