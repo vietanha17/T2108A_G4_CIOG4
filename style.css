@@ -1,0 +1,43 @@
+h1{
+    color: green;
+    /* sử dụng màu theo tên của màu */
+    color: rgb(0,0,255);
+    /* rgb phối màu giữa red green blue */
+    color: rgba(0, 0, 255, 0.9);
+    /* rgba nó tương tự với rgb alpha là thể hiện cho độ mờ của ảnh */
+    font-family: 'Lato', sans-serif;
+    font-size: 80px;
+
+}
+h2{
+    color: aqua;
+}
+option{
+    color: chartreuse;
+}
+textarea{
+    display: block;
+}
+
+/* *{
+    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*    -> để dễ dàng chỉnh padding và border tránh mặc định, giúp căn chỉnh element dễ dàng tránh nhầm lẫn, và khó bảo trì*/
+/*}*/
+h1{
+    border: 4px solid red;
+    /* viền kẻ ở chữ đó */
+    /* display: inline; đây là cắt bỏ chỗ trống */
+    padding: 50px;
+    padding: 40px 0;
+    padding: 20px 0 20px 10px;
+    height: 80px;
+    width: 700px;
+    /* đầu - phải - dưới - trái */
+
+    background-color: aquamarine;
+
+    display: block;
+/* ctrl + ? là comment */
+}
