@@ -1,0 +1,49 @@
+h1{
+    color: magenta;
+    font-family: "Agency FB"; /* tạo phông chữ */
+    font-size: 90px; /* tạo kích thước cho văn bản */
+    text-align: center; /* để căn chỉnh văn bản */
+    background-color:rgb(255, 99, 10);
+    background-color:#ff6347;
+    background-color:hsl(9, 100%, 64%);
+    background-color:rgba(255, 99, 71, 0.5);
+    background-color:hsla(9, 100%, 64%, 0.2);
+}
+h2{
+    border: 2px solid Tomato;
+}
+h3{
+    border: 5px solid DodgerBlue;
+}
+
+body{
+    background-image: url('https://image-us.24h.com.vn/upload/3-2021/images/2021-08-14/1-1628937802-189-width650height800.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+p{
+    color: red;
+}
+
+table, tr, th, td{
+    border: 3px solid rebeccapurple;
+    border-collapse: collapse;
+}
+table{
+    width: 500px;
+    height: 200px;
+}
+
+/* Tất cả các phần tử HTML có thể có các thuộc tính
+Các href thuộc tính của <a>quy định cụ thể các URL của trang liên kết đi vào
+Các src thuộc tính của <img>quy định cụ thể đường dẫn đến hình ảnh sẽ được hiển thị
+Các thuộc tính width và thông tin cung cấp kích thước cho hình ảnhheight<img>
+Các alt thuộc tính của <img>cung cấp một văn bản thay thế cho hình ảnh
+Các style thuộc tính được sử dụng để thêm phong cách cho một yếu tố, chẳng hạn như màu sắc, font chữ, kích thước, và nhiều hơn nữa
+Các lang thuộc tính của <html> thẻ tuyên bố ngôn ngữ của trang web
+Các title thuộc tính định nghĩa một số thông tin thêm về một yếu tố
+
+ */
