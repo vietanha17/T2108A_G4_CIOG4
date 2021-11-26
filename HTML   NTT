@@ -55,7 +55,7 @@ EX2
 
 <h2 style="text-align:center;">Centered Heading</h2>-- căn chỉnh văn bản đều hai bên
 
-<p style="text-align:center;">Centered paragraph.</p>-- căn chỉnh văn bản đều hai bên
+<p style="text-align:center;">Centered paragraph.</p>-- căn chỉnh văn bản đều hai bên 
 
 </body>
 </html>
@@ -108,4 +108,4 @@ CODE NÀY
 <h1 style="background-color:rgb(0, 0, 255);">rgb(0, 0, 255)</h1>
 <h1 style="background-color:rgb(60, 179, 113);">rgb(60, 179, 113)</h1>
 TA SỬ DỤNG LỆNH rbg(cường độ màu đỏ,cường độ màu xanh lá,cường độ màu xanh dương)
-có thể thử pha màu ở phần colors nha
+
