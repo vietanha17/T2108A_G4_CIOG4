@@ -5,7 +5,7 @@ body {
     padding: 0;
     background-color: #f1f1f1;
     font-family: 'Karala', sans-serif;
-        color: #333;
+    color: #333;
 }
 
 /* Header */
@@ -18,7 +18,7 @@ header {
 }
 
 h1 {
-    background-image: url('../img/creative-folk.png');
+    background-image: url('../images/creative-folk.png');
     background-repeat: no-repeat;
     background-position: center center;
     margin: 10px auto 5px auto;
@@ -111,8 +111,8 @@ input:focus {
     border-radius: 3px;
     border: 8px solid #fff;
     margin: 6px;
-        -webkit-box-shadow: 0 0 3px 3px #ebebeb;
-        box-shadow: 0 0 3px 3px #ebebeb;
+    -webkit-box-shadow: 0 0 3px 3px #ebebeb;
+    box-shadow: 0 0 3px 3px #ebebeb;
     float: left;
 }
 
@@ -156,15 +156,15 @@ th.ascending, th.descending, table.sortable th:hover {
 /* Arrows for table sorting */
 th.ascending:after {
     font-size: 60%;
-        content: '\25B2';
-        float: left;
+    content: '\25B2';
+    float: left;
     padding: 4px 5px 0 0;
 }
 
 th.descending:after {
     font-size: 60%;
-        content: '\25BC';
-        float: left;
+    content: '\25BC';
+    float: left;
     padding: 4px 5px 0 0;
 }
 
@@ -198,10 +198,8 @@ th.descending:after {
 
 .location {
     padding-left: 74px;
-    background-image: url("../img/pointer.png");
+    background-image: url("../images/pointer.png");
     background-repeat: no-repeat;
     background-position: 60px 1px;
     font-size: 90%;
 }
-
-
