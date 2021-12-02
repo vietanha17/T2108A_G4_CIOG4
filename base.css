@@ -26,7 +26,7 @@ h1 {
     width: 200px;
     height: 100px;
     margin: 40px auto 40px auto;
-    background-image: url('../img/logo.png');
+    background-image: url('../images/logo.png');
     background-repeat: no-repeat;
     text-indent: 100%;
     white-space: nowrap;
@@ -73,4 +73,3 @@ button {
     background-color: #fff;
     color: #db5391;
     padding: 10px;}
-

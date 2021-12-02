@@ -1,7 +1,7 @@
 /********** SLIDER **********/
 .slider {
-  max-width: 940px;
-  margin: 0px auto 30px auto;}
+    max-width: 940px;
+    margin: 0px auto 30px auto;}
 
 .slide-viewer {
     position: relative; /* needed for IE7 */
@@ -25,15 +25,15 @@
 
 /********** BUTTONS **********/
 .slide-buttons {
-  text-align: center;}
+    text-align: center;}
 
 .slide-btn {
-  border: none;
-  background: none;
-  color: #000;
-  font-size: 200%;
-  line-height: 0.5em;}
+    border: none;
+    background: none;
+    color: #000;
+    font-size: 200%;
+    line-height: 0.5em;}
 
 .slide-btn.active, .slide-btn:hover {
-  color: #ed8e6c;
-  cursor: pointer;}
+    color: #ed8e6c;
+    cursor: pointer;}
