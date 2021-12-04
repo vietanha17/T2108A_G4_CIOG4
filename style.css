@@ -95,9 +95,9 @@ header::after {
 
 .video img {
     border-radius: 5px;
-        box-shadow: 3px 3px 10px #888888;
-        cursor: pointer;
-        transition: 0.3s;
+    box-shadow: 3px 3px 10px #888888;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
 .video img:hover{
