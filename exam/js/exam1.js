@@ -4,48 +4,42 @@ if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 201) {
 }
 
 function validate() {
-    var firstName = document.reg_form.firstName;
-    var lastName = document.reg_form.lastName;
+    var hovaten = document.reg_form.hovaten;
+    var gioitinh = document.reg_form.gioitinh;
     var email = document.reg_form.email;
-    var phone = document.reg_form.phone;
-    var gender = document.reg_form.gender;
-    var you = document.reg_form.you;
+    var ngaysinh = document.reg_form.ngaysinh;
+    var gioithieu = document.reg_form.gioithieu;
 
     if (firstName.value.length <= 0) {
-        alert("FirstName is required");
-        firstName.focus();
+        alert("Họ và tên is required");
+        hovaten.focus();
         return false;
     }
 
 
-    if (you.value.length <= 0) {
-        alert("Yourself is required");
+    if (gioitinh.value.length <= 0) {
+        alert("Giới tính is required");
         you.focus();
         return false;
     }
 
-    if (lastName.value.length <= 0) {
-        alert("Last Name is required");
-        lastName.focus();
+    if (ngaysinh.value.length <= 0) {
+        alert("Ngày sinh is required");
+        ngaysinh.focus();
         return false;
     }
 
-    if (gender.value.length <= 0) {
-        alert("Gender is required");
-        gender.focus();
+    if (gioithieu.value.length <= 0) {
+        alert("Giới thiệu is required");
+        gioithieu.focus();
         return false;
     }
     if (email.value.length <= 0) {
-        alert("Email Id is required");
+        alert("Email is required");
         email.focus();
         return false;
     }
 
-    if (phone.value.length <= 0) {
-        alert("Phone is required");
-        phone.focus();
-        return false;
-    }
     return false;
 }
 
